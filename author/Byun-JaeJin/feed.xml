@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://byun-jaejin.github.io/author/Byun-JaeJin/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://byun-jaejin.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-05-26T18:46:26+09:00</updated>
+  <updated>2021-05-27T01:49:53+09:00</updated>
   <id>https://byun-jaejin.github.io/author/Byun-JaeJin/feed.xml</id>
 
   
@@ -12,11 +12,11 @@
   
 
   
-    <title type="html">IT Technical Training | </title>
+    <title type="html">변재진의 포트폴리오 | </title>
   
 
   
-    <subtitle>IT기반기술교육 블로그</subtitle>
+    <subtitle>실력 향상을 위해..</subtitle>
   
 
   
@@ -219,7 +219,9 @@
       <published>2021-05-01T21:30:00+09:00</published>
       <updated>2021-05-01T21:30:00+09:00</updated>
       <id>https://byun-jaejin.github.io/BlockChain-Basic</id>
-      <content type="html" xml:base="https://byun-jaejin.github.io/BlockChain-Basic">&lt;p&gt;BlockChain 이란&lt;/p&gt;</content>
+      <content type="html" xml:base="https://byun-jaejin.github.io/BlockChain-Basic">&lt;p&gt;블록체인 이미지 삽입 테스트&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/built/images/blockchain.png&quot; alt=&quot;blockchain&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -240,7 +242,7 @@
       
 
       
-        <summary type="html">BlockChain 이란</summary>
+        <summary type="html">블록체인 이미지 삽입 테스트</summary>
       
 
       

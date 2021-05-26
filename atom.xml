@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>IT기반기술교육 블로그</description>
+    <description>실력 향상을 위해..</description>
     <link>
     https://Byun-JaeJin.github.io</link>
     
@@ -90,7 +90,8 @@
       <item>
         <title>블록체인 이란</title>
         
-          <description>&lt;p&gt;BlockChain 이란&lt;/p&gt;
+          <description>&lt;p&gt;블록체인 이미지 삽입 테스트&lt;/p&gt;
+
 </description>
         
         <pubDate>Sat, 01 May 2021 21:30:00 +0900</pubDate>
