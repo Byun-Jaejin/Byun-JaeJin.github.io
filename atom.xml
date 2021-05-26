@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>IT기반기술교육 블로그</description>
+    <link>
+    https://Byun-JaeJin.github.io</link>
+    
+      
+      <item>
+        <title>Project - Project2</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Project List&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./Project1&quot;&gt;Project1 - Project1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./Project2&quot;&gt;Project2 - Project2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 25 May 2021 23:00:00 +0900</pubDate>
+        <link>
+        https://Byun-JaeJin.github.io/Project2</link>
+        <guid isPermaLink="true">https://Byun-JaeJin.github.io/Project2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Project1 - Project1</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Project List&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./Project1&quot;&gt;Project1 - Project1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./Project2&quot;&gt;Project2 - Project2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 25 May 2021 21:00:00 +0900</pubDate>
+        <link>
+        https://Byun-JaeJin.github.io/Project1</link>
+        <guid isPermaLink="true">https://Byun-JaeJin.github.io/Project1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>JAVA 강좌(1) - JAVA 기본</title>
+        
+          <description>&lt;p&gt;이 글은 JAVA-Basic 에 관한 첫 게시글 입니다.!&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 24 May 2021 21:30:00 +0900</pubDate>
+        <link>
+        https://Byun-JaeJin.github.io/JAVA-Basic</link>
+        <guid isPermaLink="true">https://Byun-JaeJin.github.io/JAVA-Basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>비트코인 기술적 분석</title>
+        
+          <description>&lt;p&gt;비트코인 기술적 분석&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 01 May 2021 21:30:00 +0900</pubDate>
+        <link>
+        https://Byun-JaeJin.github.io/C1</link>
+        <guid isPermaLink="true">https://Byun-JaeJin.github.io/C1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>비트코인 기술적 분석</title>
+        
+          <description>&lt;p&gt;하루 한개 코딩분석 및 연습&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 01 May 2021 21:30:00 +0900</pubDate>
+        <link>
+        https://Byun-JaeJin.github.io/Practice01</link>
+        <guid isPermaLink="true">https://Byun-JaeJin.github.io/Practice01</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>블록체인 이란</title>
+        
+          <description>&lt;p&gt;BlockChain 이란&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 01 May 2021 21:30:00 +0900</pubDate>
+        <link>
+        https://Byun-JaeJin.github.io/BlockChain-Basic</link>
+        <guid isPermaLink="true">https://Byun-JaeJin.github.io/BlockChain-Basic</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

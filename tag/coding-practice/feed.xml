@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://byun-jaejin.github.io/tag/coding-practice/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://byun-jaejin.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-05-26T16:40:50+09:00</updated>
+  <id>https://byun-jaejin.github.io/tag/coding-practice/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT Technical Training | </title>
+  
+
+  
+    <subtitle>IT기반기술교육 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">비트코인 기술적 분석</title>
+      <link href="https://byun-jaejin.github.io/Practice01" rel="alternate" type="text/html" title="비트코인 기술적 분석" />
+      <published>2021-05-01T21:30:00+09:00</published>
+      <updated>2021-05-01T21:30:00+09:00</updated>
+      <id>https://byun-jaejin.github.io/Practice01</id>
+      <content type="html" xml:base="https://byun-jaejin.github.io/Practice01">&lt;p&gt;하루 한개 코딩분석 및 연습&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Byun-JaeJin</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="coding-practice" />
+      
+
+      
+        <summary type="html">하루 한개 코딩분석 및 연습</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
